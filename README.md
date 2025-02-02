@@ -14,7 +14,7 @@ If you have any suggestions for improvements, bug fixes, or new ideas, feel free
 ## Getting Started:
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/experiment-and-learn.git
+   git clone https://github.com/mitali-ops/experiment-and-learn.git
 
 
 2. Navigate to the Job Scheduler project folder:
